@@ -1,4 +1,4 @@
-package com.qa.springbootonline.exception;
+package com.qa.springbootblockbuster.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
